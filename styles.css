@@ -1,0 +1,101 @@
+body {
+  text-align: center;
+  background-color: #ffcaca;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #ff5100;
+  font-family: 'Righteous', cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #000000;
+  font-family: 'Righteous', cursive;
+}
+
+.A{
+  background-image: url(./images/A.png);
+  background-size: contain ;
+  background-position-x: right;
+  background-position-y: center;
+}
+.C{
+  background-image: url(./images/C.png);
+  background-size: contain ;
+  background-position-x: right;
+  background-position-y: center;
+}
+.D{
+  background-image: url(./images/D.png);
+  background-size: contain ;
+  background-position-x: right;
+  background-position-y: center;
+}
+.E{
+  background-image: url(./images/E.png);
+  background-size: contain ;
+  background-position-x: right;
+  background-position-y: center;
+}
+.Em{
+  background-image: url(./images/Em.png);
+  background-size: contain ;
+  background-position-x: 38px;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+.F{
+  background-image: url(./images/F.png);
+  background-size: contain ;
+  background-position-x: right;
+  background-position-y: center;
+}
+.G{
+  background-image: url(./images/G.png);
+  background-repeat: no-repeat;
+  background-size: contain ;
+  background-position-x: 20px;
+  background-position-y: center;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.acho {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Righteous', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #3f008c;
+  text-shadow: 3px 0 #cecece;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: left;
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+}
+span{
+  color: #3f008c;
+}
